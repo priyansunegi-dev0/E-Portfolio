@@ -128,7 +128,7 @@ export default function VideoIntroBox() {
             onLoadedData={handleVideoReady}
             poster="https://res.cloudinary.com/doafxs9ku/image/upload/v1754813241/WhatsApp_Image_2025-08-10_at_13.21.59_6dcece47_oycgze.jpg"
           >
-         /*   <source src="https://res.cloudinary.com/doafxs9ku/video/upload/v1754813558/WhatsApp_Video_2025-08-10_at_13.23.03_a7b04c22_-_Trim_emobdf.mp4" type="video/mp4" /> */
+            {/*   <source src="https://res.cloudinary.com/doafxs9ku/video/upload/v1754813558/WhatsApp_Video_2025-08-10_at_13.23.03_a7b04c22_-_Trim_emobdf.mp4" type="video/mp4" /> */}
             Your browser does not support the video tag.
           </video>
 
